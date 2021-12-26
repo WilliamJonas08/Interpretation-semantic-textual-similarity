@@ -10,8 +10,8 @@ Nous travaillons à partir d’un dataset de paires de phrases déjà ‘tokenis
 
 📌 Voici notre approche : 
 - Identifier des morceaux de phrases (‘chunks’) ayant chacun une unité de sens 
-- - Alignement de paires de chunks 
-- - Evaluation de la similarité entre 2 chunks  
+- Alignement de paires de chunks 
+- Evaluation de la similarité entre 2 chunks  
 
 Type d'alignement : 
 - EQUI : les deux chunks sont sémantiquement équivalents dans le contexte. 
